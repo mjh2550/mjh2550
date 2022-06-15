@@ -82,10 +82,10 @@ Java 기반 웹 / 앱 개발자 입니다.
 - 정보처리기사 (2020.12.31 취득)
 
 ## 사용 기술
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<!--<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>-->
 </br>
 
-## Front-end
+* Front-end
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
@@ -93,26 +93,26 @@ Java 기반 웹 / 앱 개발자 입니다.
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp
 </p>
 
-## Back-end
+* Back-end
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
 </p>
 
-## Server
+* Server
 <p align="center">
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=black"/></a> &nbsp
 </p>
 
-## App
+* App
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/></a> &nbsp 
 </p>
 
-## Database
+* Database
 <p align="center">
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp 
