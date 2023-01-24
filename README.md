@@ -11,7 +11,7 @@
 - GitHub: [github.com/mjh2550](https://github.com/mjh2550)
 - Notion: [https://www.notion.so/Welcome-e8d00f17386a40ee95aefe45726e7f71](https://www.notion.so/Welcome-e8d00f17386a40ee95aefe45726e7f71)
 ```
-Java 기반 웹 / 앱 개발자 입니다.
+Android 앱 개발자 입니다.
 
 ```
 
@@ -22,6 +22,14 @@ Java 기반 웹 / 앱 개발자 입니다.
  
 
 ## 프로젝트
+
+ - 모바일 전자동의서 소스 통합
+  
+    *개발 기간 : 2022.11.01 ~ 현재
+    
+    *개발 목적 : 전자동의서의 유지보수를 용이하게 하기 위한 사이트별 SDK 통합
+    
+    *개발 환경 :  Android Studio , Java(1.8), Kotlin(1.4)
 
   - 근전도를 활용한 거북목 탈출 앱 만들기 (TurtleNeck Escape App) 
   
@@ -121,11 +129,12 @@ Java 기반 웹 / 앱 개발자 입니다.
 ### TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
 현재는 아래것들을 익히고 있습니다.
-- Spring JPA
+- Coroutine Flow
+- Objective C
+- Swift
 
 앞으로는 아래것들을 익히려고 합니다.
-- Kotlin
-- React.js
+- JetPack Compose
 
 ----
 
