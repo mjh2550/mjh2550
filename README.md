@@ -6,12 +6,23 @@
 
 - 이름: 문지홍
 - 군필여부: 만기전역
-- 취미: 축구, **카페코딩** , 헬스 , 영화 / 드라마 시청
 - Email: moomjh94@naver.com
 - GitHub: [github.com/mjh2550](https://github.com/mjh2550)
 - Notion: [https://www.notion.so/Welcome-e8d00f17386a40ee95aefe45726e7f71](https://www.notion.so/Welcome-e8d00f17386a40ee95aefe45726e7f71)
 ```
-Android 앱 개발자 입니다.
+안녕하세요! 
+
+저는 ____ 하는 앱/웹 개발자 입니다.
+1. 이해하기 쉬운 코드를 작성하는
+2. 기술적이고 발전적인 대화를 좋아하는
+3. 팀워크 향상에 신경쓰는
+
+저는 _____ 조직을 원합니다.
+1. 책임감이 강한
+2. 의사소통이 자유롭고 수평적인
+3. 변화에 두려움이 없는
+
+방문해주셔서 감사합니다.
 
 ```
 
@@ -23,64 +34,59 @@ Android 앱 개발자 입니다.
 
 ## 프로젝트
 
- - 모바일 전자동의서 소스 통합
-  
-    *개발 기간 : 2022.11.01 ~ 현재
-    
-    *개발 목적 : 전자동의서의 유지보수를 용이하게 하기 위한 사이트별 SDK 통합
-    
-    *개발 환경 :  Android Studio , Java(1.8), Kotlin(1.4)
+ ### 이지케어텍(2022.03 ~ 현재)
+ 
+ 
+ - JavaScript 소스코드 리팩토링(2022.10 ~ 2023.03)
+ 
+    * 웹 뷰에서 동작하는 JavaScript 소스의 추후 기능개발과 유지보수를 용이하게 하기위한 리팩토링
+    * JavaScipt 소스코드 중 영향도 분석을 통하여 사용하지 않는 코드 삭제 및 축약 변경
+ 
+ - Android 전자동의서 소스 통합(2022.11 ~ 2023.03)
+ 
+    * 솔루션 별 SDK 소스를 단일 프로젝트로 통합
+    * 안드로이드 스튜디오의 IDE에서 Build Variant 기능과 Gradle의 Product Flavor를 통하여 빌드하고자 하는 앱 선택 후 빌드가 가능하도록 개발
 
-  - 근전도를 활용한 거북목 탈출 앱 만들기 (TurtleNeck Escape App) 
+ - 모바일 전자동의서 소스 통합(2022.11 ~ 2023.03)
   
-    *개발 기간 : 2021.12.01 ~ 현재
+    * 원내 직원들만 사용이 가능한 자체 채팅 앱
+    * JetPack Compose , Coroutine Flow 를 활용하여 채팅방 메시지 수신 및 전송 기능 적용 경험
     
-    *개발 목적 : 근전도를 활용한 사용자의 자세 교정 어플 연구
+  - Android Webview Brush 기능 개발(2022.06 ~ 2022.09)
     
-    *개발 환경 :  Android Studio , SqlLite, Google firebase
+    * 의료진이 환자에게 동의서를 받기 전 수술 및 시술의 설명을 돕기위한 기능
+    * Web Api 중 Canvas Api와 JavaScript Interface를 활용하여 펜 모드 선택 시 Html canvas 태그 위에 Brush가 나타나도록 구현
     
-    *git hub : https://github.com/mjh2550/TNE.git
+  ### 대아정보시스템(2020.11 ~ 2022.03)
   
   - 병원 고객앱 SNS 연동 시스템 개발
-  
-    *개발 기간 : 2021.08.01 ~ 2021.10.31 
+    * 병원 홈페이지, 앱의 회원가입을 간편하게 하기 위한 SNS로그인 도입
+    * SNS(NAVER, KAKAO) Api 등록 후 토큰을 서버에 저장하고, 로그인 시 토큰을 대조하는 방식으로 개발
     
-    *개발 목적 : 간편한 로그인 및 회원가입 을 위한 SNS서비스(NAVER,KAKAO)를 제공
+  - 영상 플레이어 앱 개발(2021.08 ~ 2021.09)
     
-    *개발 환경 :  Java(Spring), Miaps Solution ,ORACLE ,MS-SQL 
+    * 의료진이 병동 태블릿을 활용하여 환자에게 영상을 시청하게하는 목적의 앱
+    * 원내 내부망 스트리밍 서버의 RestApi 를 활용하여 영상 스트리밍 서비스를 제공하는 App 개발
     
-- CMSPlayer App 개발
+  - 교직원 전용 앱 회진문자 서비스 개발(2020.12.01 ~ 2021.03.01)
     
-    *개발 기간 : 2021.08.01 ~ 2021.09.01 
+    * 의료진이 병원 회진 시 자체 앱에서 문자를 전송할 수 있는 기능
+    * 원내 HIS SMS 메세지 서버에 데이터를 연결하는 Api 개발
     
-    *개발 목적 : 원내 내부망 스트리밍 서버의 RestApi 를 활용하여 영상 스트리밍 서비스를 제공하는 App 개발
     
-    *개발 환경 : Java , MS-SQL, Android Studio
-    
-- 교직원 전용 앱 회진문자 서비스 개발
-    
-    *개발 기간 : 2020.12.01 ~ 2021.03.01 
-    
-    *개발 목적 : 교직원 전용 앱에서 회진안내문자를 환자에게 전송하는 시스템을 개발하여 보다 편리한 회진 서비스 제공
-    
-    *개발 환경 : Java(Spring), Miaps ,ORACLE ,MS-SQL
-    
+ ### KG 에듀원 국가산업직종 교육 (2020.03 ~ 2020.11)
    
- - Hotel Space : 호텔예약 웹페이지 제작(Final)
+ - Hotel Space : 호텔예약 웹페이지 제작(2020.07.01 ~ 2020.10.14)
         
-     *개발 기간 : 2020.07.01 ~ 2020.10.14 
+     * 편리한 호텔예약 웹 서비스 제공
         
-     *개발 목적 : 편리한 호텔예약 웹 서비스 제공
-        
-     *개발 환경 : Java(Spring), ORACLE ,MyBatis
-        
-     *Youtube  
+     * Youtube  
         
       (Client page) [https://youtu.be/HeWniCQ6Fc8](https://youtu.be/HeWniCQ6Fc8)
         
       (Admin page) [https://youtu.be/ET-9BZuPhRY](https://youtu.be/ET-9BZuPhRY)
         
-      *github : https://github.com/mjh2550/hotelspace.git
+     * github : https://github.com/mjh2550/hotelspace.git
 
 
 ## 학력
@@ -103,6 +109,7 @@ Android 앱 개발자 입니다.
 
 * Back-end
 <p align="center">
+<img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>
